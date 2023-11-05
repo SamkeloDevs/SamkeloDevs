@@ -11,9 +11,6 @@ Software development
 Learning:
 I'm currently enrolled in a software development diploma program to deepen my understanding of various programming concepts and methodologies. Additionally, I am self-teaching HTML, CSS, and JavaScript to strengthen my skills in web development.
 
-Collaboration:
-I'm open to collaborating on web development projects, particularly those related to front-end development. If you're working on exciting projects or seeking a collaborator, feel free to reach out!
-
 How to Reach Me:
 You can contact me through the following channels:
 
